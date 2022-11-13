@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RGiZi2Dk3r93Ypz7cRaf6cKyxSKTFBD/nJ+HzS5hWVPtOrkX4fHiZIBE+QG0Up9Ykd8lMQFgi18CwMLKJeMAiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LASHA\\Desktop\\Комков Сергей\\С#\\Поисковик файлов\\Поисковик файлов.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LASHA\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

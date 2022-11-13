@@ -1,0 +1,17 @@
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\obj\Debug\net6.0\Поисковик файлов.csproj.AssemblyReference.cache
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\obj\Debug\net6.0\Поисковик файлов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\obj\Debug\net6.0\Поисковик файлов.AssemblyInfoInputs.cache
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\obj\Debug\net6.0\Поисковик файлов.AssemblyInfo.cs
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\obj\Debug\net6.0\Поисковик файлов.csproj.CoreCompileInputs.cache
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\bin\Debug\net6.0\Поисковик файлов.exe
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\bin\Debug\net6.0\Поисковик файлов.deps.json
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\bin\Debug\net6.0\Поисковик файлов.runtimeconfig.json
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\bin\Debug\net6.0\Поисковик файлов.dll
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\bin\Debug\net6.0\Поисковик файлов.pdb
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\obj\Debug\net6.0\Поисковик файлов.csproj.CopyComplete
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\obj\Debug\net6.0\Поисковик файлов.dll
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\obj\Debug\net6.0\refint\Поисковик файлов.dll
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\obj\Debug\net6.0\Поисковик файлов.pdb
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\obj\Debug\net6.0\Поисковик файлов.genruntimeconfig.cache
+C:\Users\LASHA\Desktop\Комков Сергей\С#\Поисковик файлов\obj\Debug\net6.0\ref\Поисковик файлов.dll
